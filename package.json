@@ -46,6 +46,6 @@
     "cloudscraper": "^4.6.0",
     "node-fetch": "^2.6.1",
     "request": "^2.88.2",
-    "source-map-support": "^0.5.19"
+    "source-map-support": "^0.5.21"
   }
 }
